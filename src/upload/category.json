@@ -1,0 +1,227 @@
+[
+    {
+        "category": "Agile & Lean",
+        "status": 1,
+        "isDeleted": false
+    },
+    {
+        "category": "Artificial Intelligence",
+        "status": 1,
+        "isDeleted": false
+    },
+    {
+        "category": "Brand & Public Relations",
+        "status": 1,
+        "isDeleted": false
+    },
+    {
+        "category": "Career Advice & Self Mastery",
+        "status": 1,
+        "isDeleted": false
+    },
+    {
+        "category": "Change Management",
+        "status": 1,
+        "isDeleted": false
+    },
+    {
+        "category": "Cloud Computing",
+        "status": 1,
+        "isDeleted": false
+    },
+    {
+        "category": "Conflict Resolution",
+        "status": 1,
+        "isDeleted": false
+    },
+    {
+        "category": "Cryptcurrencies & Blockchain",
+        "status": 1,
+        "isDeleted": false
+    },
+    {
+        "category": "Culture",
+        "status": 1,
+        "isDeleted": false
+    },
+    {
+        "category": "DataScience & Analytics",
+        "status": 1,
+        "isDeleted": false
+    },
+    {
+        "category": "Diversity and Inclusion",
+        "status": 1,
+        "isDeleted": false
+    },
+    {
+        "category": "Emotional Intelligence",
+        "status": 1,
+        "isDeleted": false
+    },
+    {
+        "category": "Entrepreneurship",
+        "status": 1,
+        "isDeleted": false
+    },
+    {
+        "category": "Finance, Accounting & Controlling",
+        "status": 1,
+        "isDeleted": false
+    },
+    {
+        "category": "Freelancing",
+        "status": 1,
+        "isDeleted": false
+    },
+    {
+        "category": "Game Development",
+        "status": 1,
+        "isDeleted": false
+    },
+    {
+        "category": "Human Resources & Recruiting",
+        "status": 1,
+        "isDeleted": false
+    },
+    {
+        "category": "Infrastructure & Security",
+        "status": 1,
+        "isDeleted": false
+    },
+    {
+        "category": "Innovation",
+        "status": 1,
+        "isDeleted": false
+    },
+    {
+        "category": "Leadership & Management",
+        "status": 1,
+        "isDeleted": false
+    },
+    {
+        "category": "Legal, Risk Management, Compliance",
+        "status": 1,
+        "isDeleted": false
+    },
+    {
+        "category": "Marketing & Growth",
+        "status": 1,
+        "isDeleted": false
+    },
+    {
+        "category": "Mobile Development",
+        "status": 1,
+        "isDeleted": false
+    },
+    {
+        "category": "Negotiation",
+        "status": 1,
+        "isDeleted": false
+    },
+    {
+        "category": "Operations Management",
+        "status": 1,
+        "isDeleted": false
+    },
+    {
+        "category": "Podcast Creation",
+        "status": 1,
+        "isDeleted": false
+    },
+    {
+        "category": "Procurement",
+        "status": 1,
+        "isDeleted": false
+    },
+    {
+        "category": "Product Management",
+        "status": 1,
+        "isDeleted": false
+    },
+    {
+        "category": "Project Management",
+        "status": 1,
+        "isDeleted": false
+    },
+    {
+        "category": "Public Speaking",
+        "status": 1,
+        "isDeleted": false
+    },
+    {
+        "category": "Sales",
+        "status": 1,
+        "isDeleted": false
+    },
+    {
+        "category": "Social Entrepreneurship & Charity",
+        "status": 1,
+        "isDeleted": false
+    },
+    {
+        "category": "Social Media",
+        "status": 1,
+        "isDeleted": false
+    },
+    {
+        "category": "Software Engineering",
+        "status": 1,
+        "isDeleted": false
+    },
+    {
+        "category": "Startup: Founding & Funding",
+        "status": 1,
+        "isDeleted": false
+    },
+    {
+        "category": "Strategy & Business Development",
+        "status": 1,
+        "isDeleted": false
+    },
+    {
+        "category": "Supporting Refugees",
+        "status": 1,
+        "isDeleted": false
+    },
+    {
+        "category": "Sustainability",
+        "status": 1,
+        "isDeleted": false
+    },
+    {
+        "category": "Team Structure & Work Methodologies",
+        "status": 1,
+        "isDeleted": false
+    },
+    {
+        "category": "Time management",
+        "status": 1,
+        "isDeleted": false
+    },
+    {
+        "category": "Transformation",
+        "status": 1,
+        "isDeleted": false
+    },
+    {
+        "category": "UX, Design & User Research",
+        "status": 1,
+        "isDeleted": false
+    },
+    {
+        "category": "Video Production",
+        "status": 1,
+        "isDeleted": false
+    },
+    {
+        "category": "Web Development",
+        "status": 1,
+        "isDeleted": false
+    },
+    {
+        "category": "Writing",
+        "status": 1,
+        "isDeleted": false
+    }
+]

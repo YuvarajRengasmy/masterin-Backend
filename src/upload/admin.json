@@ -1,0 +1,12 @@
+[
+    {
+        "name": "Pixalive",
+        "mobile": 90000000000,
+        "password": "U2FsdGVkX1/4APpOH2GWr7HwRgkXHQfd3+zopXLdcyU=",
+        "email": "admin@gmail.com",
+        "role": "ADMIN",
+        "imageUrl": "https://s3.ap-south-1.amazonaws.com/pixalive.me/empty_profile.png",
+        "status": 1,
+        "isDeleted": false
+    }
+]
